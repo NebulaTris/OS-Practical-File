@@ -1,0 +1,3 @@
+[submodule "OS-Open-Ended"]
+	path = OS-Open-Ended
+	url = https://github.com/NebulaTris/OS-Open-Ended.git
